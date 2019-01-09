@@ -1,3 +1,5 @@
+# QMjs
+
 This code intends to be a display of a hobby that I began working on in the recent months. It is an attempt to:
 + Create an efficient QM-based *boolean function minimizer*.
 + Create an efficient and *tiny representation(preferably canonical) of the boolean function*.
